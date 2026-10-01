@@ -1,0 +1,45 @@
+{
+  "item": {
+    "id": "com.cyberbb.band.photo",
+    "restype": "quick_app",
+    "name": "CyberBB",
+    "description": "It's a cyber bead for xiaomi band.",
+    "preview": [
+      "media/f000.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/封面_1500x1000.png",
+    "author": [
+      {
+        "name": "Cjm",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb11": {
+      "version": "1.0.9",
+      "file_name": "downloads/com.cyberbb.band.photo.release.1.0.9.rpk",
+      "versionCode": 10
+    },
+    "xmb10nfc": {
+      "version": "1.0.9",
+      "file_name": "downloads/com.cyberbb.band.photo.release.1.0.9.rpk",
+      "versionCode": 10
+    },
+    "xmb10": {
+      "version": "1.0.9",
+      "file_name": "downloads/com.cyberbb.band.photo.release.1.0.9.rpk",
+      "versionCode": 10
+    },
+    "xmb11nfc": {
+      "version": "1.0.9",
+      "file_name": "downloads/com.cyberbb.band.photo.release.1.0.9.rpk",
+      "versionCode": 10
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
